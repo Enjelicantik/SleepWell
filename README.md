@@ -89,9 +89,7 @@ SleepWell/
 
 ---
 
-## 🎥 Demo Video (Youtube)
-
-<video src="demo.mp4" />
+## [🎥 Watch demo video](./demo.mp4)
 
 ## 📜 License
 
