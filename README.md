@@ -89,7 +89,7 @@ SleepWell/
 
 ---
 
-## 🎥 Watch demo video
+## 🎥 Watch demo video [here](./demo.mp4)
 
 <video src="./demo.mp4" controls width="600">
   Demo video.
