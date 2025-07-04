@@ -91,7 +91,7 @@ SleepWell/
 
 ## 🎥 Demo Video (Youtube)
 
-## [![Watch the demo](https://img.youtube.com/vi/./0.jpg)](https://www.youtube.com/watch?v=)
+<video src="demo.mp4" />
 
 ## 📜 License
 
