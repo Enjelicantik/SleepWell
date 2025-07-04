@@ -1,4 +1,4 @@
-# 🛌 Sleep & Skin Condition Tracker
+# 🛌 SleepWell Sleep & Skin Condition Tracker
 
 Track your sleep and monitor your skin — all in one simple desktop app.
 
@@ -26,7 +26,7 @@ So, I built this tracker to monitor my sleep duration and compare it with my ski
 ## 📂 Project Structure
 
 ```
-sleep_tracker/
+SleepWell/
 ├── main.py                 # Main application entry point
 ├── models/                 # Folder for all model classes
 │   ├── base_tracker.py     # Abstract base class
@@ -53,13 +53,13 @@ sleep_tracker/
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/sleep-skin-tracker.git
+    git clone https://github.com/your-username/SleepWell.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd sleep-skin-tracker
+    cd SleepWell
     ```
 
 3. Run the app:
